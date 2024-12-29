@@ -12,7 +12,7 @@ const TemplateSelection = ({ onSelect }: TemplateSelectionProps) => {
         <CardContent className="p-6">
           <div className="aspect-[8.5/11] bg-gray-100 mb-4">
             <img
-              src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b"
+              src="\public\temp1.png"
               alt="Template 1"
               className="w-full h-full object-cover"
             />
@@ -27,7 +27,7 @@ const TemplateSelection = ({ onSelect }: TemplateSelectionProps) => {
         <CardContent className="p-6">
           <div className="aspect-[8.5/11] bg-gray-100 mb-4">
             <img
-              src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d"
+              src="\public\temp2.png"
               alt="Template 2"
               className="w-full h-full object-cover"
             />
